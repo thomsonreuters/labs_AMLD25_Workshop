@@ -1,0 +1,48 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chosen": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "chosen_reward": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "rejected": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "rejected_reward": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "origin_response_c_r": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

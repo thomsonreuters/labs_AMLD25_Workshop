@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+unsloth
+lxml[html_clean]>=4.9.0
+newspaper3k>=0.2.8
+rouge-score>=0.1.2
+bert-score>=0.3.13
+nltk>=3.8.1
+termcolor>=2.3.0
+datasets>=2.12.0
+jinja2>=3.1.0
+numpy>=1.21.0
+ipython>=8.0.0
