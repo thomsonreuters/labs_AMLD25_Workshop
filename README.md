@@ -77,3 +77,8 @@ This setup ensures:
 * No credentials are stored in GitHub
 * Secure GPU access through Kaggle's infrastructure
 * Protected notebook environment
+
+## 👥 Contributors
+Giofré, Daniele (@dgiofre) and Gysel, Philipp (@PhilippGyselTR) and Rudnikowicz, Bartosz (@bartoszrud) and Taneva-Popova, Bilyana (@BilyanaTanevaTR) and Trautmann, Dietrich (@DietrichTrautmannTR)
+
+
