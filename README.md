@@ -5,7 +5,7 @@ This guide explains how to properly import and run notebooks with GPU support on
 Before starting, you need to clone the workshop repository to your local machine:
 
 ```
-git clone https://github.com/dgiofre/labs_AMLD25_Workshop.git
+git clone https://github.com/thomsonreuters/labs_AMLD25_Workshop.git
 ```
 
 This repository contains all the necessary notebooks and materials for the workshop. After cloning, you'll need to follow the instructions below to set up the proper GPU environment in Kaggle.
@@ -77,3 +77,8 @@ This setup ensures:
 * No credentials are stored in GitHub
 * Secure GPU access through Kaggle's infrastructure
 * Protected notebook environment
+
+## 👥 Contributors
+Giofré, Daniele (@dgiofre) and Gysel, Philipp (@PhilippGyselTR) and Rudnikowicz, Bartosz (@bartoszrud) and Taneva-Popova, Bilyana (@BilyanaTanevaTR) and Trautmann, Dietrich (@DietrichTrautmannTR)
+
+
